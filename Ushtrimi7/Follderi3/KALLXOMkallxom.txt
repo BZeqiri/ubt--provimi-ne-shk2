@@ -1,0 +1,5 @@
+Fajllat me extension "txt" qe kane >= se "2" dhe qe ndodhen ne follderin "C:\Users\LED COM\Desktop\Test-Shk2\Ushtrimi7\Follderi3" jane:
+
+File: BABALOKI.txt - 2KB
+File: KAMPIONedhePIKE.txt - 4KB
+File: MYTEmyte.txt - 2KB

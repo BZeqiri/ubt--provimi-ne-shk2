@@ -1,0 +1,57 @@
+xaaaaaaaaaaaaaaaaaaaaaaa
+xccccccccccccccccccacccccccc
+xvvvvvvvvvvvvvvv
+xbbbbbbbbbbb
+xfg
+xasd
+dffffdgv
+jom jom jom jom jom jom
+dfs
+dfsdfs
+fsfsffsfdfsdfsdfs
+fsdf
+sdfsdfsdfsdfsdfsdfsdfs
+dfsdfsdffsdffsf
+fsdfsdfsdfsd
+***** Gjatë zgjidhjes së detyrave të shënohet numri rendor (për secilën zgjidhje) *****
+
+1. Interface-i Individual definon metodën getRekordi()
+
+2. Klasa Sportisti ka dy atributet emri dhe mosha, për te cilat i ofroni metodat get dhe set dhe metodn abstrakte boolean perdorDuart()
+
+3. Krijoni klasat konkrete që derivohen nga klasa Sportisti:
+
+o Futbollisti që ka edhe atributin (readonly) pozita e që duhet të jetë një vlerë jo e zbraztë.
+
+o Basketbollisti që ka edhe atributin (readonly) gjatesia e që duhet të jetë një vlerë jo negative.
+
+o Bokseri që implementon interface-in Individual ka edhe atributet (readonly) kategoria dhe rekordi që duhet të jetë një vlerë jo e zbraztë.
+
+
+
+4. Klasa abstrakte Atleti që derivohet nga Sportisti që ka atributin nrMedaljeve e që duhet të jetë një vlerë jo negative.
+
+5. Vrapuesi që derivohet nga Atleti dhe implementon interface-in Individual si dhe ka atributet distanca dhe rekordi që duhet të jetë vlerë jo e zbrazët.
+
+6. Ofroni klasën Olimpiada që ka atributin emri që nuk lejohet të jetë i zbraztë dhe collection ku ruhen sportistet.
+
+7. Ofroni metodën shtoSportistin e cila shton sportistin nëse është i inicializuar dhe nuk ekziston.
+
+8. Ofroni metodën getRekordet e cila shfaq instancat të cilat kan rekorde
+
+9. Ofroni metodën kaTeGjithaLlojet që tregon nëse olimpiada ka të gjitha llojet e sportistave.
+
+10. Ofroni metodën print që shtyp elementet e collection në formatin:
+
+emri : mosha
+
+11. Ofroni metodën main () ku do të krijoni një instancë të klasës Olimpiada, ku do t’i shtoni 2 instanca të seciles klasë si dhe te testohen të gjitha metodat.
+
+
+
+Vini re: Të gjitha atributet janë të nevojshme, dhe nuk duhet të jenë të zbrazët ose vlerë më të vogël se 1 (per numra), përndryshe gjenerohet exception specifik SportiException.
+
+Kto nuk bine nprovim:
+Klasat lokale, anonime
+Folldera (IO)
+Threadave (jo detyre e madhe)KAmpioneeeeee KAMPIONEEEEEEE KAMPIONEEEEEE......

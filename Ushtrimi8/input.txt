@@ -1,0 +1,6 @@
+Profesori;Besart;2000;Java;i rregullt
+Profesori;Ariana;2003;Web;i asociuar
+Profesori;Lume;1988;java;i rregullt
+Asistenti;Tringa;2001;Web;Laboratotike
+Asistenti;Sara;2000;Web;Numerike
+Asistenti;Jeton;2001;Databaz;Laboratorike
